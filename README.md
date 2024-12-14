@@ -15,5 +15,16 @@ g++ -std=c++2a -O3 -g0 ./geteventall.cpp
 ```
 
 
+### Standard version 
+
+![](https://github.com/hansalemaos/getevent_pretty_print_linux/blob/main/output_getevent_normal.png?raw=true)
+
+
+### Pretty print version 
+
+![](https://github.com/hansalemaos/getevent_pretty_print_linux/blob/main/output_getevent_pretty.png?raw=true)
+
+
+
 
 
