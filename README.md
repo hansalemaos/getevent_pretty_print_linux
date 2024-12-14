@@ -13,7 +13,7 @@ g++ -std=c++2a -O3 -g0 ./geteventall.cpp
 
 ## run it 
 ```sh 
-./a.out 1920 1280  # exe screen_width screen_height
+./a.out 1920 1080  # exe screen_width screen_height
 ```
 
 

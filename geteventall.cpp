@@ -1187,7 +1187,7 @@ int main(int argc, char *argv[])
     int i;
     int res;
     int pollres;
-    int get_time = 0;
+    int get_time = 1;
     int print_device = 0;
     char _newline = '\n';
     char *newline = &_newline;
