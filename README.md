@@ -1,5 +1,7 @@
 # Getevent pretty print version with hex + dec and real screen coordinates 
 
+Tested against some Android emulators and Kali Linux (on Virtual Box)
+
 ### Based on:
 
 https://android.googlesource.com/platform/system/core.git/+/android-4.2.2_r1/toolbox/getevent.c
